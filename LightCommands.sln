@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoWPF", "src\DemoWPF\DemoWPF.csproj", "{C29A6105-E0C2-4C66-B1BA-21906223E3EA}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LightCommands", "src\LightCommands\LightCommands.csproj", "{D9639DA9-0C0C-419D-B60A-A593D1F8CE00}"
 EndProject
 Global
@@ -15,6 +17,10 @@ Global
 		{D9639DA9-0C0C-419D-B60A-A593D1F8CE00}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9639DA9-0C0C-419D-B60A-A593D1F8CE00}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9639DA9-0C0C-419D-B60A-A593D1F8CE00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C29A6105-E0C2-4C66-B1BA-21906223E3EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C29A6105-E0C2-4C66-B1BA-21906223E3EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C29A6105-E0C2-4C66-B1BA-21906223E3EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C29A6105-E0C2-4C66-B1BA-21906223E3EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
